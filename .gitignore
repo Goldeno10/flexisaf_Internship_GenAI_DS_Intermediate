@@ -1,0 +1,29 @@
+# Python / Virtual Environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Data & Models (Keep your code light)
+# We ignore the actual CSV and the trained model files
+# *.csv
+# *.pkl
+# *.joblib
+# admission_pipeline.pkl
+# feature_names.pkl
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Visualizations (Optional: ignore if you want to regenerate them)
+*.png
+*.jpg
