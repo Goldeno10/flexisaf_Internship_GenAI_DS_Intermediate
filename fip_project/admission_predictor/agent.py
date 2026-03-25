@@ -1,6 +1,5 @@
 import os
 import joblib
-import pandas as pd
 from typing import TypedDict
 
 from langgraph.graph import StateGraph, END
