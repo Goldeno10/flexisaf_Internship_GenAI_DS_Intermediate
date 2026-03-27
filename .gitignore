@@ -5,6 +5,8 @@ __pycache__/
 *$py.class
 .env
 
+Image_Caption_best_model.pth.tar
+checkpoint.pth.tar
 # Data & Models (Keep your code light)
 # We ignore the actual CSV and the trained model files
 # *.csv

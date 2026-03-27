@@ -109,6 +109,8 @@ Both projects showcase practical computer vision skills, including dataset handl
 - Rice Classification: [`task_4/rice_classification.ipynb`](task_4/rice_classification.ipynb)
 
 ---
+<!-- add image -->
+![Image Caption UI](task_4/image_caption_ui//image_caption_ui.png)
 
 ## Final Project: Admission Success Predictor
 
