@@ -27,5 +27,5 @@ checkpoint.pth.tar
 Thumbs.db
 
 # Visualizations (Optional: ignore if you want to regenerate them)
-*.png
-*.jpg
+# *.png
+# *.jpg
