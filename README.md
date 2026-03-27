@@ -122,6 +122,9 @@ This project is a machine learning and generative AI application designed to pre
 
 Predicting university admission involves many factors. This tool helps students understand their chances based on data such as GRE, TOEFL, and CGPA. It also provides an AI-driven "Counselor" to explain the results and give advice.
 
+![Admission Predictor UI](fip_project/admission_predictor//adminsion_predictor_ui.png)
+
+
 ### Key Features
 
 - **Predictive Intelligence**: A Random Forest Classifier trained on graduate admission data calculates the probability of success.
