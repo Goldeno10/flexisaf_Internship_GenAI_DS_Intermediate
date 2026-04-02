@@ -121,6 +121,8 @@ This project is a machine learning and generative AI application designed to pre
 ### 🚀 Overview
 
 Predicting university admission involves many factors. This tool helps students understand their chances based on data such as GRE, TOEFL, and CGPA. It also provides an AI-driven "Counselor" to explain the results and give advice.
+# Notebook link at:
+https://colab.research.google.com/drive/1A86WbpB1Kn-JIrrW23r57fODmml0qpIu?usp=sharing
 
 ![Admission Predictor UI](fip_project/admission_predictor//adminsion_predictor_ui.png)
 
